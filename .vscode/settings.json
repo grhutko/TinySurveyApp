@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6faa4a1f-3191-4982-895d-22d5261a5903/resourceGroups/tiny-survey-grhutko527_group/providers/Microsoft.Web/sites/tiny-survey-grhutko527",
+    "appService.deploySubpath": "."
+}
